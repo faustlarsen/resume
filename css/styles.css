@@ -28,13 +28,13 @@ li {
   border-radius: 1cm;
   font-family: Arial, Helvetica, sans-serif;
 }
-li:hover{
+li:hover {
   background-color: white;
   color: black;
   transition: 0.5s;
 }
 
-#logo img{
+#logo img {
   float: left;
   width: 0.8in;
   height: 0.9in;
@@ -45,21 +45,43 @@ li:hover{
   float: right;
   margin-top: 1in;
   margin-right: 1in;
+  border: solid black;
   border-radius: 20px;
+  border-width: 1px;
   width: 5.5in;
   height: 5in;
-  border: solid black;
-  border-width: 1px;
   text-align: center;
   padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.about-box:hover{
+.about-box:hover {
   background-color: white;
   color: black;
-  transition: 0.5s;
+  transition: 1s;
 }
+
+.portfolio-box {
+  float: left;
+  margin-top: 1in;
+  margin-left: 2in;
+  border: solid black;
+  border-radius: 20px;
+  border-width: 1px;
+  width: 2in;
+  height: 2.8in;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.portfolio-box:hover {
+  background-color: white;
+  color: black;
+  transition: 1s;
+}
+
 
 #inst {
   margin-right: 1cm;
