@@ -56,7 +56,6 @@ li:hover {
 
 .about-box:hover {
   background-color: white;
-  color: black;
   transition: 1s;
 }
 
@@ -71,29 +70,35 @@ li:hover {
   height: 2.8in;
   text-align: center;
   padding: 10px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
   font-weight: 600;
+  background-color: white;
 }
 
 .portfolio-box:hover {
-  background-color: white;
-  color: black;
+  background-color: transparent;
   transition: 1s;
 }
 
 .portfolio-list {
   float: right;
-  margin-top: 4in;
-  margin-left: 1in;
+  margin-top: 4.5in;
+  margin-right: 2in;
   border: solid black;
   border-radius: 20px;
   border-width: 1px;
-  width: 2in;
-  height: 2.8in;
+  width: 1.5in;
+  height: 1.5in;
   text-align: center;
-  padding: 10px;
-  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
   font-weight: 600;
+  background-color: white;
+}
+
+.portfolio-list:hover {
+  background-color: transparent;
+  transition: 1s;
 }
 
 #inst {
