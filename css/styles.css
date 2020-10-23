@@ -8,6 +8,11 @@
   height: 100vh;
   background-size: cover;
 }
+#portfolio-background {
+  background-image: url('../img/portfolio.jpg');
+  height: 100vh;
+  background-size: cover;
+}
 
 /*buttons*/
 ul {
@@ -53,9 +58,10 @@ li:hover{
 .about-box:hover{
   background-color: white;
   color: black;
+  transition: 0.5s;
 }
 
 #inst {
-  margin-right: 3cm;
+  margin-right: 1cm;
 }
 
