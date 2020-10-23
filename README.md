@@ -12,13 +12,14 @@ _This is a portfolio page that includes information about me and my projects._
 
 ## Setup/Installation Requirements
 
-_To view the software click here_ _https://faustlarsen.github.io/portfolio/_
-_To edit the code install VSCode, Sublime, Atom or a similar code eitor_
-
+ 
+ - _To view the software click here_ _https://faustlarsen.github.io/resume/_
+ - _To edit the code install VSCode, Sublime, Atom or a similar code eitor_
+ 
  1. _Navigate to https://github.com/faustlarsen/resume._
- 2.  _Click on 'Download Code' button to downoal this repository_
+ 2. _Click on 'Download Code'  button to downoal this repository_
  3. _Open with code editor to view or edit the code_
- 4. _To view double click on  .html file_
+ 4. _To view the file double click on the .html file_
 
 ## Support and contact details
 
@@ -32,6 +33,6 @@ _Please email me at faustlarsen@gmail.com_
  - _Written in VS Code_
 ### License
 
-This software is licensed under the MIT license.
+This software is licensed under the MIT license
 
 Copyright (c) 2020 **_Constantine Yakubovski_**
