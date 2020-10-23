@@ -35,3 +35,27 @@ li:hover{
   height: 0.9in;
   margin-top: 5px;
 }
+
+.about-box {
+  float: right;
+  margin-top: 1in;
+  margin-right: 1in;
+  border-radius: 20px;
+  width: 5.5in;
+  height: 5in;
+  border: solid black;
+  border-width: 1px;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-box:hover{
+  background-color: white;
+  color: black;
+}
+
+#inst {
+  margin-right: 3cm;
+}
+
