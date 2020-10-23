@@ -1,6 +1,6 @@
 
  
-# _Constantine's strong textportfolio page._
+# _Constantine's portfolio page._
 
 #### _Independent project for Epicodus, 10/23/2020_
 
@@ -12,13 +12,13 @@ _This is a portfolio page that includes information about me and my projects._
 
 ## Setup/Installation Requirements
 
-_To view the software click here_ _https://faustlarsen.github.io/resume/_
+_To view the software click here_ _https://faustlarsen.github.io/portfolio/_
 _To edit the code install VSCode, Sublime, Atom or a similar code eitor_
 
-_1. Navigate to https://github.com/faustlarsen/resume._
-_2. Click on 'Download Code' button to downoal this repository_
-_3. Open with code editor to view or edit the code_
-_4. To view double click on .html file_
+ 1. _Navigate to https://github.com/faustlarsen/resume._
+ 2.  _Click on 'Download Code' button to downoal this repository_
+ 3. _Open with code editor to view or edit the code_
+ 4. _To view double click on  .html file_
 
 ## Support and contact details
 
@@ -26,9 +26,10 @@ _Please email me at faustlarsen@gmail.com_
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap_
-_Written in VS Code_
-
+ - _HTML_
+ - _CSS_
+ - _Bootstrap_
+ - _Written in VS Code_
 ### License
 
 This software is licensed under the MIT license.
